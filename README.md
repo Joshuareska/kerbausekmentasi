@@ -4,18 +4,18 @@ The thesis titled "Sistem Estimasi Harga Kerbau Berdasarkan Parameter Corak Warn
 
 Key points from the thesis:
 
-Objective: The research aims to create a model for detecting buffalo breeds (such as Bonga, Saleko, and Lotongboko) and estimating their price based on the color patterns of their skin using image processing, specifically through the YOLO (You Only Look Once) algorithm.
+1. Objective: The research aims to create a model for detecting buffalo breeds (such as Bonga, Saleko, and Lotongboko) and estimating their price based on the color patterns of their skin using image processing, specifically through the YOLO (You Only Look Once) algorithm.
 
-Methodology:
+2. Methodology:
 
-The study employs YOLOv8, a deep learning-based object detection model with Convolutional Neural Network (CNN) architecture, leveraging ResNet and DarkNet backbones.
+ - The study employs YOLOv8, a deep learning-based object detection model with Convolutional Neural Network (CNN) architecture, leveraging ResNet and DarkNet backbones.
 
-Data augmentation techniques like image rotation were applied to improve model robustness and adaptability.
+ - Data augmentation techniques like image rotation were applied to improve model robustness and adaptability.
 
-The model achieved a mean Average Precision (mAP) of 0.95 in object recognition, demonstrating high accuracy in distinguishing different buffalo breeds and providing accurate price estimations.
+ - The model achieved a mean Average Precision (mAP) of 0.95 in object recognition, demonstrating high accuracy in distinguishing different buffalo breeds and providing accurate price estimations.
 
-Results:
+3. Results:
 
 The system was able to achieve 89% accuracy in detecting and labeling different buffalo species using image analysis, and it accurately estimated the prices of buffalo based on their characteristics.
 
-Contribution: This research provides a computational approach for estimating buffalo prices in the Toraja region, assisting both traders and buyers by automating the price determination process based on physical characteristics, particularly skin color patterns.
+4. Contribution: This research provides a computational approach for estimating buffalo prices in the Toraja region, assisting both traders and buyers by automating the price determination process based on physical characteristics, particularly skin color patterns.
